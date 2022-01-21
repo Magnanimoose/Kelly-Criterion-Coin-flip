@@ -8,6 +8,8 @@ The aim of the game is to make as much return as possible.
 If you run out of money before you finished your bets the game is over.
 
 ## Instructions for Download
-```git clone https://github.com/Magnanimoose/Kelly-Criterion-Coin-flip```
+1. On your PC create and activate a Python Virtual Environment
+1. On the terminal enter```git clone https://github.com/Magnanimoose/Kelly-Criterion-Coin-flip```
+1. Run the script and enjoy!
 
 
